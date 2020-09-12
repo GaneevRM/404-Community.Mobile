@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ДоброСбор</string>
+    <string name="name">Название</string>
+    <string name="inputName">Введите название</string>
+    <string name="goal">Цель</string>
+    <string name="inputGoal">Введите цель</string>
+    <string name="info">Описание</string>
+    <string name="inputInfo">Введите описание</string>
+    <string name="format">Формат</string>
+    <string name="regularDonate">Регулярное пожертвование</string>
+    <string name="oneDonate">Разовый целевой сбор</string>
+    <string name="term">Срок</string>
+    <string name="summ">Cумма</string>
+    <string name="inputSumm">Введите сумму</string>
+    <string name="publicButton">Опубликовать</string>
+    <string name="photoButton">Добавить фото</string>
+</resources>
