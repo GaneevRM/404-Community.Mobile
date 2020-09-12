@@ -14,4 +14,12 @@
     <string name="inputSumm">Введите сумму</string>
     <string name="publicButton">Опубликовать</string>
     <string name="photoButton">Добавить фото</string>
+    <string name="NewColl">Добавить сбор</string>
+    <string name="author">Автор:</string>
+    <string name="progress">На данный момент</string>
+    <string name="end">Осталось дней:</string>
+    <string name="donate">2000</string>
+    <string name="vkPay">VK Pay \n  Баланс 7 320</string>
+    <string name="masterCard">Mastercard **** 4432</string>
+    <string name="donateButton">Пожертвовать</string>
 </resources>

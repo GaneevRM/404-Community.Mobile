@@ -19,12 +19,33 @@
         <item name="android:color">@color/colorText</item>
     </style>
 
+    <style name="TextStyleBig">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:color">@color/colorText</item>
+    </style>
+
+    <style name="Element">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginStart">30dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+    </style>
+
     <style name="ButtonStyle">
         <item name="android:layout_marginTop">10dp</item>
         <item name="android:layout_marginStart">30dp</item>
         <item name="android:layout_marginEnd">30dp</item>
         <item name="android:background">@color/colorButton</item>
         <item name="android:textColor">@color/colorTextButton</item>
+    </style>
+
+    <style name="TextStyleRight">
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginStart">250dp</item>
+        <item name="android:layout_marginEnd">30dp</item>
+        <item name="android:color">@color/colorText</item>
     </style>
 
 </resources>
